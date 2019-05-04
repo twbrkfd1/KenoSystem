@@ -20,7 +20,13 @@ a preset amount (to prevent insider payouts); this can be set to even one dollar
 
 Real-time number draws are displayed at each location. If a player at a location wins,
 the location is notified and the player must collect with a fixed time period. Uncollected
-winnings return to the pot.
+winnings return to the pot. All winning tickets number are displayed in real-time
+at each location. There is a draw screen for the numbers and a results/matches screen.
+
+Tickrts are printed on a thermal printer or any other printer desired as long as
+the bar code and encrypted 3D code can be scanned. Since each ticket has an encrypted
+validation code, it is not possible to create a fradulent ticket. In addition, the
+ephemeral nature of the data inherently prevents fraud.
 
 The system can also be used for stand alone keno number drawing at a VFW or similar "club".
 
